@@ -2,7 +2,7 @@
 
 ### Description
 
-"De Stijl" (Dutch for "The Style") is a rather influential art movement that began in Amsterdam in 1917. The style is famous for its abstraction of representation in a deliberate, geometric form -- often only composed of boxes with perpendicular lines and primary colors (blue, red, yellow, black, and white).
+"De Stijl" (Dutch for "the Style") is a rather influential art movement that began in Amsterdam in 1917. The style is famous for its abstraction of representation in a deliberate, geometric form -- often only composed of boxes with perpendicular lines and primary colors (blue, red, yellow, black, and white).
 
 The [most prominent examples](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1164&bih=619&q=piet+mondrian+famous+paintings&oq=piet+mondrian+&gs_l=img.3.0.0l10.769.2256.0.4450.14.9.0.5.5.0.157.1049.3j6.9.0.msedr...0...1ac.1.64.img..0.14.1065.m1TqL7WbcWc) from the movement today were probably those done by a painter named [Piet Mondrian](http://en.wikipedia.org/wiki/Piet_Mondrian). His most famous paintings resemble the semi-planned street grid of a city like Manhattan, or DC without all the diagonal avenues - a collection of intersecting streets running north-south and east-west that surround rectangular city blocks.
 
