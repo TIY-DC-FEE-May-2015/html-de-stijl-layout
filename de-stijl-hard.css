@@ -10,14 +10,11 @@
   height: 100vh;
   width: 100%;
   font-size: 0px;
-  background-color: white;
 }
 
 .row {
 	height: 25%;
 }
-
-
 
 .cell {
 	border-right: solid black 10px;
