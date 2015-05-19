@@ -11,3 +11,62 @@
   width: 100%;
   font-size: 0px;
 }
+
+.row {
+	height: 25vh;
+}
+
+.cell {
+	display: inline-block;
+	width: 25%;
+	height: 100%;
+	border-right: solid 10px black;
+	border-bottom: solid 10px black;
+}
+
+.cell.col-1.yellow.top {
+	background: yellow;
+	border-bottom: none;
+}
+
+.cell.col-1.yellow.bottom {
+	background: yellow;
+}
+
+.cell.col-1.blue {
+	background: blue;
+}
+
+.cell.col-1.blue:last-of-type {
+	border-right: none;
+}
+
+.cell.col-1.black {
+	background: black;
+}
+
+.cell.col-2.red {
+	background: red;
+	border-right: none;
+}
+
+.cell.col-1.top {
+	background: red;
+}
+
+.cell.col-3.blue {
+	background: blue;
+	border:none;
+}
+
+.cell.col-1.bottom {
+	background: blue;
+}
+
+.cell.col-1.bottom:last-of-type {
+	border-bottom: none;
+}
+
+.row:first-of-type .cell.col-1:last-of-type {
+	border-right: none;
+}
