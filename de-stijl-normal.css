@@ -1,5 +1,3 @@
-/* TODO: Fill out the rest! */
-
 * {
   margin: 0;
   padding: 0;
@@ -10,5 +8,112 @@
   height: 100vh;
   width: 100%;
   font-size: 0px;
+  border-top:none;
+}
+.cell{
+	display:inline-block;
+	height: 100%;
+	border-top:none;
 }
 
+.row-1{
+	border:solid 8px black;
+	height:10vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+}
+.row-2{
+	border:solid 8px black;
+	height:10vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+}.row-3{
+	border:solid 8px black;
+	height:6vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+}.row-4{
+	border:solid 8px black;
+	height:10vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+}.row-5{
+	border:solid 8px black;
+	height:10vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+}.row-6{
+	border:solid 8px black;
+	height:10vh;
+	width: 100%;
+	border-left:none;
+	border-right:none;
+	border-bottom:none;
+}
+
+.cell-1{
+	border-right:solid 8px black;
+	width:15%;
+}
+
+.cell-2{
+	border-right:solid 8px black;
+	width:10%;
+}
+
+.cell-3{
+	border-right:solid 8px black;
+	width:30%;
+}
+
+.cell-4{
+	border-right:solid 8px black;
+	width:20%;
+}
+
+.cell-5{
+	border-right:solid 8px black;
+	width:15%;
+}
+
+.cell-6{
+	border-right:solid 8px black;
+	width:10%;
+}
+
+.cell-4.red{
+	background-color:red;
+}
+.cell-5.red{
+	background-color:red;
+}
+
+.cell-1.yellow{
+	background-color:yellow;
+}
+
+.cell-3.black {
+	background-color:black;
+}
+
+.cell-6.yellow{
+	background-color:yellow;
+}
+.cell-4.blue{
+	background-color:blue;
+}
+.cell-1.red{
+	background-color:red;
+}
+.cell-3.blue{
+	background-color:blue;
+}
+.cell-5.black{
+	background-color:black;
+}
