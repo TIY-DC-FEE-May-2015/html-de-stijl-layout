@@ -12,3 +12,244 @@
   font-size: 0px;
 }
 
+/* TODO: Fill out the rest! */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  font-size: 0px;
+}
+
+/* All rows and cells */
+.row {
+	width: 100%;
+}
+
+.cell {
+	display: inline-block;
+	border-right: 15px solid black;
+	vertical-align: top;
+}
+
+.row .cell:last-of-type {
+	border-right: none;
+}
+
+/* Row 1 & Cells */
+.row-1 {
+	height: 20vh;
+	border-bottom: 15px solid black;
+}
+
+.row-1 .cell-1 {
+	height: 20vh;
+	width: 23%;
+}
+
+.row-1 .cell-2 {
+	height: 20vh;
+	width: 7%;
+}
+.row-1 .cell-3 {
+	height: 20vh;
+	width:30%;
+}
+.row-1 .cell-4 {
+	height:20vh;
+	width: 15%;
+	background-color: red;
+	border-bottom: 15px solid black;
+}
+.row-1 .cell-5 {
+	height:20vh;
+	width: 15%;
+	background-color: red;
+	border-bottom: 15px solid black;
+}
+.row-1 .cell-6 {
+	height:20vh;
+	width:10%;
+}
+
+/* Row 2 & Cells*/
+.row-2 {
+	height: 20vh;
+	border-bottom: 15px solid black;
+}
+
+.row-2 .cell-1 {
+	width: 23%;
+	height:20vh;
+	background-color: yellow;
+	border-bottom: 15px solid black;
+}
+
+.row-2 .cell-2 {
+	width: 7%;
+	height:20vh;
+}
+.row-2 .cell-3 {
+	width:30%;
+	height:20vh;
+}
+.row-2 .cell-4 {
+	width: 15%;
+	height:20vh;
+}
+.row-2 .cell-5 {
+	width: 15%;
+	height:20vh;
+}
+.row-2 .cell-6 {
+	width:10%;
+	height:20vh;
+}
+
+/* Row 3 & Cells*/
+.row-3 {
+	height: 5vh;
+	border-bottom: 15px solid black;
+}
+
+.row-3 .cell-1 {
+	height: 5vh;
+	width: 23%;
+}
+
+.row-3 .cell-2 {
+	height:5vh;
+	width: 7%;
+}
+.row-3 .cell-3 {
+	height:5vh;
+	width:30%;
+	background-color: black;
+	border-bottom: 15px solid black;
+}
+.row-3 .cell-4 {
+	height:5vh;
+	width: 15%;
+}
+.row-3 .cell-5 {
+	height: 5vh;
+	width: 15%;
+}
+.row-3 .cell-6 {
+	height: 5vh;
+	width:10%;
+	background-color: yellow;
+	border-bottom: 15px solid black;
+}
+
+/* Row 4 & Cells*/
+.row-4 {
+	height: 15vh;
+	border-bottom: 15px solid black;
+}
+
+.row-4 .cell-1 {
+	height: 15vh;
+	width: 23%;
+}
+
+.row-4 .cell-2 {
+	height:15vh;
+	width: 7%;
+}
+.row-4 .cell-3 {
+	height:15vh;
+	width:30%;
+}
+.row-4 .cell-4 {
+	height:15vh;
+	width: 15%;
+	background-color: blue;
+	border-bottom: 15px solid black;
+}
+.row-4 .cell-5 {
+	height: 15vh;
+	width: 15%;
+}
+.row-4 .cell-6 {
+	height: 15vh;
+	width:10%;
+}
+
+/* Row 5 & Cells*/
+.row-5 {
+	height: 25vh;
+	border-bottom: 15px solid black;
+}
+
+.row-5 .cell-1 {
+	height: 25vh;
+	width: 23%;
+	background-color: red;
+	border-bottom: 15px solid black;
+}
+
+.row-5 .cell-2 {
+	height:25vh;
+	width: 7%;
+}
+.row-5 .cell-3 {
+	height:25vh;
+	width:30%;
+}
+.row-5 .cell-4 {
+	height:25vh;
+	width: 15%;
+}
+.row-5 .cell-5 {
+	height: 25vh;
+	width: 15%;
+}
+.row-5 .cell-6 {
+	height: 25vh;
+	width:10%;
+}
+
+
+/* Row 6 & Cells*/
+.row-6 {
+	height: 20vh;
+	border-bottom: none;
+}
+
+.row-6 .cell-1 {
+	height: 20vh;
+	width: 23%;
+}
+
+.row-6 .cell-2 {
+	height:20vh;
+	width: 7%;
+}
+.row-6 .cell-3 {
+	height:20vh;
+	width:30%;
+	background-color: blue;
+
+}
+.row-6 .cell-4 {
+	height:20vh;
+	width: 15%;
+}
+.row-6 .cell-5 {
+	height: 20vh;
+	width: 15%;
+	background-color: black;
+	
+}
+.row-6 .cell-6 {
+	height: 20vh;
+	width:10%;
+}
+
+
