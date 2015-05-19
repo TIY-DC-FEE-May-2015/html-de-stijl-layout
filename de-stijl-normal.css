@@ -11,4 +11,278 @@
   width: 100%;
   font-size: 0px;
 }
+.cell{
+	display:inline-block;
+	margin-top: none;
+}
+.row.row-1{
+	height:18vh;
+}
+.row.row-2{
+	height:18vh;
+}
+.row.row-3{
+	height:8vh;
+}
+.row.row-4{
+	height:18vh;
+}
+.row.row-5{
+	height:24vh;
+}
+.row.row-6{
+	height:14vh;
+}
+
+.cell-1{
+	width:20%;
+}
+
+.cell-2{
+	width:12%;
+}
+.cell-3{
+	width:24%;
+}
+.cell-4{
+	width:16%;
+}
+.cell-5{
+	width:16%;
+}
+.cell-6{
+	width:12%;
+}
+.row-1 .cell-1{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-1 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-1 .cell-3{
+
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-1 .cell-4
+{
+	background-color: red;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-1 .cell-5
+{
+	background-color: red;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-1 .cell-6
+{
+	background-color: white;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-2 .cell-1{
+	background-color: yellow;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+	
+}
+.row-2 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-2 .cell-3{
+
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-2 .cell-4
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-2 .cell-5
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-2 .cell-6
+{
+	background-color: white;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-3 .cell-1{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+	
+}
+.row-3 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-3 .cell-3{
+
+	background-color: black;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-3 .cell-4
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-3 .cell-5
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-3 .cell-6
+{
+	background-color: yellow;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-1{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-3{
+
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-4
+{
+	background-color: blue;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-5
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-4 .cell-6
+{
+	background-color: white;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-5 .cell-1{
+	background-color: red;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+	
+}
+.row-5 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-5 .cell-3{
+
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-5 .cell-4
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-5 .cell-5
+{
+	background-color: white;
+	border-right: 10px solid black;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-5 .cell-6
+{
+	background-color: white;
+	border-bottom: 10px solid black;
+	height: 100%;
+}
+.row-6 .cell-1{
+	background-color: white;
+	border-right: 10px solid black;
+	height: 100%;
+	
+}
+.row-6 .cell-2{
+	background-color: white;
+	border-right: 10px solid black;
+	height: 100%;
+}
+.row-6 .cell-3{
+
+	background-color: blue;
+	border-right: 10px solid black;
+	height: 100%;
+}
+.row-6 .cell-4
+{
+	background-color: white;
+	border-right: 10px solid black;
+	height: 100%;
+}
+.row-6 .cell-5
+{
+	background-color:black;
+	border-right: 10px solid black;
+	height: 100%;
+}
+.row-6 .cell-6
+{
+	background-color: white;
+	height: 100%;
+}
 
