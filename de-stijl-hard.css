@@ -11,3 +11,60 @@
   width: 100%;
   font-size: 0px;
 }
+
+.row {
+	height: 25%;
+}
+
+.cell {
+	border-right: solid black 10px;
+	border-bottom: solid black 10px;
+	width: 25%;
+	display: inline-block;
+	height: 100%;
+}
+
+.cell:last-of-type {
+	border-right: none;
+}
+
+.top {
+	border-bottom: none;
+}
+
+.bottom {
+	border-top: none;
+}
+
+.bottom:last-of-type {
+	border-bottom: none;
+}
+
+.col-1 {
+	width: 25%;
+}
+
+.col-2 {
+	width: 50%;
+}
+
+.col-3 {
+	width: 75%;
+	border-bottom: none;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+.black {
+	background-color: black;
+}
+
+.blue {
+	background-color: blue;
+}
