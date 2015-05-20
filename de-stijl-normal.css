@@ -1,14 +1,314 @@
-/* TODO: Fill out the rest! */
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 .container {
   height: 100vh;
   width: 100%;
   font-size: 0px;
 }
+.row.row-1{width: 100%;
+height: 28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+-webkit-box-sizing: border-box}
+.row.row-1       .cell-1{width: 20%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-1       .cell-2{width: 9%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-1       .cell-3{width: 28%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-1       .cell-4{width: 17%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: red;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-1       .cell-5{width: 17%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: red;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-1       .cell-6{width: 9%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2{width: 100%;
+height:28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+  border-top: solid 5px black
+-webkit-box-sizing: border-box}
+  .row.row-2       .cell-1{width: 20%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: yellow;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2       .cell-2{width: 9%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2       .cell-3{width: 28%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2       .cell-4{width: 17%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2       .cell-5{width: 17%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-2       .cell-6{width: 9%;
+height: 20vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-3{width: 100%;
+height: 28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+  border-top: solid 5px black;
+-webkit-box-sizing: border-box}
+.row.row-3       .cell-1{width: 20%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-3       .cell-2{width: 9%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-3       .cell-3{width: 28%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: black;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-3       .cell-4{width: 17%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-3       .cell-5{width: 17%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-3       .cell-6{width: 9%;
+height: 7vh;display:inline-block;
+  font-size: 0px;
+  background-color: yellow;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-4{width: 100%;
+height: 28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+-webkit-box-sizing: border-box}
+.row.row-4       .cell-1{width: 20%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-4       .cell-2{width: 9%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-4       .cell-3{width: 28%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-4       .cell-4{width: 17%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: blue;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-4       .cell-5{width: 17%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-4       .cell-6{width: 9%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-5{width: 100%;
+height: 28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+-webkit-box-sizing: border-box}
+.row.row-5       .cell-1{width: 20%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: red;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-5       .cell-2{width: 9%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-5       .cell-3{width: 28%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-5       .cell-4{width: 17%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-5       .cell-5{width: 17%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-5       .cell-6{width: 9%;
+height: 25vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+.row.row-6{width: 100%;
+height: 28.95%vh;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;
+-webkit-box-sizing: border-box}
+.row.row-6       .cell-1{width: 20%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-6       .cell-2{width: 9%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-6       .cell-3{width: 28%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: blue;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-6       .cell-4{width: 17%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-6       .cell-5{width: 17%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+  .row.row-6       .cell-6{width: 9%;
+height: 15vh;display:inline-block;
+  font-size: 0px;
+  background-color: white;
+  border-left: solid 5px black;
+  border-right: solid 5px black;
+  border-bottom: solid 5px black;}
+
+
 
